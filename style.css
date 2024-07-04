@@ -8,7 +8,7 @@
     background: url("./Image/heroSectionBackground.png");
     background-size: cover;
     background-position: center;
-    min-height: 60vh;
+    min-height: 20vh;
 }
 
 .navbar{
